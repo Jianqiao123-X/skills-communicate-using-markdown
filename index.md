@@ -15,3 +15,7 @@ int main() {
     return 0;
 }
 ```
+Here is a task list example.
+- [x] Teach 18500.
+- [ ] Teach 15250.
+- [ ] Take the course Finm-32900.
